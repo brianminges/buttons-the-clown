@@ -1,0 +1,24 @@
+{
+  "clowns": [],
+  "clients": [],
+  "reservations": [
+    {
+      "parentName": "John Smith",
+      "childName": "Joe Smith",
+      "childAge": "3",
+      "address": "123 Anywhere Drive",
+      "date": "2022-01-01",
+      "length": "2",
+      "id": 3
+    },
+    {
+      "parentName": "Francis Bacon",
+      "childName": "Franky",
+      "childAge": "6",
+      "address": "95819 Evergreen",
+      "date": "2022-09-09",
+      "length": "3",
+      "id": 5
+    }
+  ]
+}
